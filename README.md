@@ -21,4 +21,4 @@
 <div>
  <a href="https://www.linkedin.com/in/renan-martinez-alencar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
- ![Snake animation](https://github.com/renan-ma)
+ ![Snake animation](https://github.com/renan-ma/renan-ma/blob/output/github-contribution-grid-snake.svg)
