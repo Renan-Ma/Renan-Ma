@@ -14,7 +14,7 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Renan-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 
-  <img align="center" alt="Renan-Jest" height="30" width="40" src="https://github.com/Renan-Ma/Renan-Ma/assets/69327864/81321f36-e301-4be5-bb00-90c2fdbd905d">
+
   
 </div>
 
